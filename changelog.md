@@ -19,3 +19,6 @@ Changelog
 -Added tooltip to pictures on mouse over
 -Fixed Scooby doo assets not showing up 
  due to incorrect name and .gif instead of .jpg
+ 
+ [V1.1.3]
+ -added actor view to display a single actor
