@@ -26,3 +26,6 @@ Changelog
 [V1.1.4]
 -added to actor page to display role's image and role's quote.
 -missing scooby doo's role image. added image to pix folder as Dog.jpg
+
+[V1.1.5]
+-Lol
